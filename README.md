@@ -3,7 +3,6 @@ Hello World!
 Sono Laura Di Costanzo, studentessa della CyberHackademy@university
 
 Con le competenze acquisite e che acquisirò durante il corso, cercherò di rendere il mondo un posto migliore con una riga di codice alla volta.
-
 <!--
 **ldcostanzo/ldcostanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
