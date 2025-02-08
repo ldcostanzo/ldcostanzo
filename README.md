@@ -23,7 +23,7 @@ cerco di rendere il mondo un posto migliore con una riga di codice alla volta
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ldcostanzo&show_icons=true&theme=radical)
 ## 🏆 Trophies
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=ldcostanzo&theme=onestar)
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=ldcostanzo&layout=compact&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ldcostanzo&theme=github)
 
 
