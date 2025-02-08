@@ -27,5 +27,4 @@ Con le competenze acquisite e che acquisirò durante il corso, cercherò di rend
 
 > “To say that you are not interested in the right to privacy because you have nothing to hide is like saying that you are not interested in free speech because you have nothing to say.”
 >
->  ![Quote](https://img.shields.io/badge/"“To_say_that_you_are_not_interested_in_the_right_to_privacy_because_you_have_nothing_to_hide_is_like_saying_that_you_are_not_interested_in_free_speech_because_you_have_nothing_to_say.”"-grey?style=for-the-badge)
 > ![Quote](https://img.shields.io/badge/Edward_Snowden-black?style=for-the-badge)
