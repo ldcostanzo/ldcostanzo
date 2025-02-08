@@ -19,7 +19,7 @@ Con le competenze acquisite e che acquisirò durante il corso, cercherò di rend
 ![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=ldcostanzo&layout=compact&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ldcostanzo&theme=github)
 
-![Quote](https://img.shields.io/badge/"“To_say_that_you_are_not_interested_in_the_right_to_privacy_because_you_have_nothing"_/n"to_hide_is_like_saying_that_you_are_not_interested_in_free_speech_because_you_have_nothing_to_say.”"-Edward_Snowden-green?style=for-the-badge)
+![Quote](https://img.shields.io/badge/"“To_say_that_you_are_not_interested_in_the_right_to_privacy_because_you_have_nothing”"/n"“to_hide_is_like_saying_that_you_are_not_interested_in_free_speech_because_you_have_nothing_to_say.”"-Edward_Snowden-green?style=for-the-badge)
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-di-costanzo-955a5022b/)
