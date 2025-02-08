@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=dark)
 
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ldcostanzo&show_icons=true&theme=radical)
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=ldcostanzo&theme=onestar)
