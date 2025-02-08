@@ -1,9 +1,13 @@
 ## Hi there 👋
   Hello World!
-💀I'm a Cyber Hackademy student 👩‍💻🐧 
+🕶️ Welcome to My Cyber Lair 🕶️
+👩‍💻 I'm a Cyber Hackademy student 👩‍💻
+🚀 Ethical Hacker | 🛡️ Cybersecurity Enthusiast | 👨‍💻 Coder
 
-Con le competenze acquisite e che acquisirò durante il corso, cercherò di rendere il mondo un posto migliore con una riga di codice alla volta
+cerco di rendere il mondo un posto migliore con una riga di codice alla volta
 
+🎯 Hacking & Cybersecurity Tools
+📡 Wireshark | 🛡️ Kali Linux
 
 
 ## 🚀 Tech Stack
