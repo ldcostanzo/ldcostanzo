@@ -1,7 +1,9 @@
-## Hi there 👋
-  Hello World!
-🕶️ Welcome to My Cyber Lair 🕶️
-👩‍💻 I'm a Cyber Hackademy student 👩‍💻
+<h1 align ="center" > Hello World!👋 </h1> 
+<h1 align ="center" >  🕶️ Welcome to My Cyber Lair 🕶️</h1> 
+<img align="right"  alt="Coding" width="200" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
+<p align ="left" >
+👩‍💻 I'm a Cyber Hackademy student 👩‍💻</p> 
 
 "I try to make the world a safe place one line of code at a time"
 
