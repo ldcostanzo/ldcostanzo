@@ -35,3 +35,10 @@
 > 《 To say that you are not interested in the right to privacy because you have nothing to hide is like saying that you are not interested in free speech because you have nothing to say.》
 >
 > ![Quote](https://img.shields.io/badge/Edward_Snowden-black?style=for-the-badge)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[TUOUSER]/[TUOUSER]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[TUOUSER]/[TUOUSER]/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/[TUOUSER]/[TUOUSER]/output/pacman-contribution-graph.svg">
+</picture>
+
