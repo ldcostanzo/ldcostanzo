@@ -27,6 +27,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ldcostanzo&theme=github)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-di-costanzo-955a5022b/)
@@ -36,10 +41,6 @@
 >
 > ![Quote](https://img.shields.io/badge/Edward_Snowden-black?style=for-the-badge)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/ldcostanzo/ldcostanzo/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
