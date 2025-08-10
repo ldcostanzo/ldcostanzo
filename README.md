@@ -16,9 +16,7 @@
 
 
 ## 🚀 Tech Stack
-![Python](https://img.icons8.com/?size=60&id=13441&format=png&color=000000)  
-![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)  
-![C++](https://img.icons8.com/?size=60&id=40669&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=60&id=13441&format=png&color=000000)  ![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)  ![C++](https://img.icons8.com/?size=60&id=40669&format=png&color=000000) 
 
 ## 🛠️ Tools & Platforms  
 ![GitHub](https://img.icons8.com/?size=60&id=106564&format=png&color=000000)
