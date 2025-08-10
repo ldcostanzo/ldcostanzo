@@ -11,8 +11,8 @@
 
 
 ##  Hacking & Cybersecurity Tools
-![Wireshark](https://img.icons8.com/?size=60&id=v5aFhu6h1M57&format=png&color=000000)
-![KaliLinux](https://img.icons8.com/?size=60&id=muqMY2QA2VIG&format=png&color=000000)
+![Wireshark](https://img.icons8.com/?size=60&id=rOHcpTUtCTjr&format=png&color=000000)
+![KaliLinux](https://img.icons8.com/?size=60&id=qBWtR72kluCU&format=png&color=000000****)
 
 
 ## 🚀 Tech Stack
