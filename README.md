@@ -15,12 +15,12 @@
 
 
 ## 🚀 Tech Stack
-![Python](https://img.icons8.com/?size=80&id=13441&format=png&color=000000)  ![JavaScript](https://img.icons8.com/?size=80&id=108784&format=png&color=000000)  ![C++](https://img.icons8.com/?size=80&id=40669&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=60&id=13441&format=png&color=000000)  ![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)  ![C++](https://img.icons8.com/?size=60&id=40669&format=png&color=000000) 
 
 ## 🛠️ Tools & Platforms  
-![GitHub](https://img.icons8.com/?size=100&id=118553&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=80&id=17842&format=png&color=000000)
-![GitKraken](https://img.icons8.com/?size=100&id=_kEYrgSh426O&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=60&id=118553&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=60&id=17842&format=png&color=000000)
+![GitKraken](https://img.icons8.com/?size=60&id=_kEYrgSh426O&format=png&color=000000)
 ### GitHub
 ## 📊 Statistics
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ldcostanzo&show_icons=true&theme=radical)
