@@ -1,5 +1,5 @@
-<h1 align ="center" > Hello World!👋 </h1> 
-<h1 align ="center" >  🕶️ Welcome to My Cyber Lair 🕶️</h1> 
+<h1 align ="center" > Hello World!👋
+<br>🕶️ Welcome to My Cyber Lair 🕶️</h1> 
 <img align="right"  alt="Coding" width="200" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align ="left" >
@@ -10,17 +10,22 @@
 🚀 Ethical Hacker | 🛡️ Cybersecurity Enthusiast | 👨‍💻 Coder</p> 
 
 
-## 🎯 Hacking & Cybersecurity Tools
-📡 Wireshark | 🛡️ Kali Linux
+##  Hacking & Cybersecurity Tools
+![Wireshark](https://img.icons8.com/?size=60&id=v5aFhu6h1M57&format=png&color=000000)
+![KaliLinux](https://img.icons8.com/?size=60&id=muqMY2QA2VIG&format=png&color=000000)
 
 
 ## 🚀 Tech Stack
-![Python](https://img.icons8.com/?size=60&id=13441&format=png&color=000000)  ![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)  ![C++](https://img.icons8.com/?size=60&id=40669&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=60&id=13441&format=png&color=000000)  
+![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)  
+![C++](https://img.icons8.com/?size=60&id=40669&format=png&color=000000) 
 
 ## 🛠️ Tools & Platforms  
-![GitHub](https://img.icons8.com/?size=60&id=118553&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=60&id=106564&format=png&color=000000)
 ![Linux](https://img.icons8.com/?size=60&id=17842&format=png&color=000000)
 ![GitKraken](https://img.icons8.com/?size=60&id=_kEYrgSh426O&format=png&color=000000)
+![VisualStudio](https://img.icons8.com/?size=60&id=9OGIyU8hrxW5&format=png&color=000000)
+
 ### GitHub
 ## 📊 Statistics
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ldcostanzo&show_icons=true&theme=radical)
